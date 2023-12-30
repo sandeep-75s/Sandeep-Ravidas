@@ -585,7 +585,7 @@ input::placeholder{
 }
 .btn2{
     width: 180px;
-    height: 50px;
+    height: 35px;
     font-size: 120%;
     font-family: Arial, Helvetica, sans-serif;
     background: none;
@@ -1562,7 +1562,7 @@ input::placeholder{
         font-size: 180%;
     }
     .form{
-        height: 850px;
+        height: 800px;
     }
     .input,textarea{
         width: 100%;
