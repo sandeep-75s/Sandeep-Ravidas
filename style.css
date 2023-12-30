@@ -597,6 +597,7 @@ input::placeholder{
     border: 1px solid var(--main-color);
     color: var(--text-color);
     cursor: pointer;
+    margin-top: -20px;
     
 }
 .btn2::before{
@@ -1119,7 +1120,7 @@ input::placeholder{
         color: var(--text-color);
     }
     .form{
-        height: 850px;
+        height: 800px;
     }
     .input,textarea{
         width: 100%;
